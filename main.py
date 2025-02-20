@@ -1,7 +1,7 @@
-startingimage = 'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\backend.jpg'#'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\front.jpg'
-backgroundimage ='C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\front.jpg' #'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\backend.jpg'
-essay = 'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\essay.txt'
-icon = 'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\icon.png'
+startingimage = r'backend.jpg'#'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\front.jpg'
+backgroundimage =r'front.jpg' #'C:\\Users\\rakes\\OneDrive\\Documents\\projectrakeshsingh\\backend.jpg'
+essay = r'essay.txt'
+icon = r'icon.png'
 
 
 import sys
